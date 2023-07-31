@@ -1,0 +1,22 @@
+{
+ "t_shirt": {
+  "xs": true,
+  "s": true,
+  "m": false,
+  "l": true,
+  "xl": true,
+  "xxl": true,
+  "xxxl": false
+ },
+ "hudi": {
+  "xs": true,
+  "s": true,
+  "m": true,
+  "l": true,
+  "xl": true,
+  "xxl": true,
+  "xxxl": true,
+  "4xl": true,
+  "5xl": true
+ }
+}
