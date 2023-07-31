@@ -1,7 +1,7 @@
 import os.path
 import json
 
-BOT_TOKEN = '5642912391:AAHz98XGu_VPi5oN8DSHeLqXqq8QYj84ve4'
+BOT_TOKEN = 'YOUR TOKEN'
 MY_ID = 428451423
 DB_FILENAME = 'botuploads.db'
 
